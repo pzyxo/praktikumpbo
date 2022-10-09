@@ -1,2 +1,3 @@
 # praktikumpbo
-Praktikum PBO kelas XI RPL
+Fayusri Royfanto
+K3519033
