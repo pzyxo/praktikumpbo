@@ -16,7 +16,8 @@ public class SiswaObj {
      */
     public static void main(String[] args) {
         Siswa s1 = new Siswa();
-        s1.tampilMenu();
+        s1.isiData();
+        s1.cetak();
     }
     
 }

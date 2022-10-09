@@ -9,6 +9,10 @@ package enkapsulasi;
  *
  * @author Pzyxo
  */
-public class SiswaObj2 {
-    
+
+public class SiswaObj2 { 
+    public static void main(String[] args) {
+        Siswa2 s2 = new Siswa2();
+        s2.tampilMenu();
+    }
 }
